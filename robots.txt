@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pletrato.github.io/sitemap.html.gz
+Sitemap: https://pletrato.github.io/app/sitemap.html.gz
+Sitemap: https://pletrato.github.io/assets/sitemap.html.gz
+Sitemap: https://pletrato.github.io/css/sitemap.html.gz
+Sitemap: https://pletrato.github.io/data/sitemap.html.gz
+Sitemap: https://pletrato.github.io/includes/sitemap.html.gz
+Sitemap: https://pletrato.github.io/item/sitemap.html.gz
+Sitemap: https://pletrato.github.io/src/sitemap.html.gz
